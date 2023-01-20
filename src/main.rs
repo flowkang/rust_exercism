@@ -1,3 +1,5 @@
+mod assembly_line;
+
 pub fn hello() -> &'static str {
     "Hello, World!"
 }
@@ -30,7 +32,13 @@ pub fn main_for_lucians_luscious_lasagna() {
     println!("{}", elapsed_time_in_minutes(3, 20));
 }
 
+pub fn main_for_assembly_line() {
+    println!("{}", assembly_line::production_rate_per_hour(6));
+    println!("{}", assembly_line::working_items_per_minute(6));
+}
+
 fn main() {
     // main_for_hello_world();
-    main_for_lucians_luscious_lasagna();
+    // main_for_lucians_luscious_lasagna();
+    main_for_assembly_line();
 }
