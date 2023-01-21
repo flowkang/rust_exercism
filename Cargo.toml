@@ -14,5 +14,6 @@ members = [
     "assembly_line",
     "semi_structured_logs",
     "resistor_color",
-    "health_statistics"
+    "health_statistics",
+    "low_power_embedded_game"
 ]
