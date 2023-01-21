@@ -15,5 +15,6 @@ members = [
     "semi_structured_logs",
     "resistor_color",
     "health_statistics",
-    "low_power_embedded_game"
+    "low_power_embedded_game",
+    "short_fibonacci",
 ]
