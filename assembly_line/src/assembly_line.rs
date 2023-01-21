@@ -1,3 +1,4 @@
+
 pub fn production_rate_per_hour(speed: u8) -> f64 {
     let default_rate_per_hour = speed as f64 * 221.0;
     let rate_list = [1.0, 0.9, 0.77];
