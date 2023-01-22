@@ -17,4 +17,5 @@ members = [
     "health_statistics",
     "low_power_embedded_game",
     "short_fibonacci",
+    "reverse_string",
 ]
