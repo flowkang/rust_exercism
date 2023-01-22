@@ -18,4 +18,5 @@ members = [
     "low_power_embedded_game",
     "short_fibonacci",
     "reverse_string",
+    "role_playing_game",
 ]
