@@ -19,4 +19,5 @@ members = [
     "short_fibonacci",
     "reverse_string",
     "role_playing_game",
+    "magazine_cutout"
 ]
