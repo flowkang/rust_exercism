@@ -21,5 +21,6 @@ members = [
     "role_playing_game",
     "magazine_cutout",
     "rpn_calculator",
-    "gigasecond"
+    "gigasecond",
+    "armstrong_numbers"
 ]
