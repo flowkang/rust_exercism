@@ -20,5 +20,6 @@ members = [
     "reverse_string",
     "role_playing_game",
     "magazine_cutout",
-    "rpn_calculator"
+    "rpn_calculator",
+    "gigasecond"
 ]
