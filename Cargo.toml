@@ -22,5 +22,6 @@ members = [
     "magazine_cutout",
     "rpn_calculator",
     "gigasecond",
-    "armstrong_numbers"
+    "armstrong_numbers",
+    "clock"
 ]
