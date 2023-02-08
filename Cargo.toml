@@ -23,5 +23,6 @@ members = [
     "rpn_calculator",
     "gigasecond",
     "armstrong_numbers",
-    "clock"
+    "clock",
+    "anagram"
 ]
